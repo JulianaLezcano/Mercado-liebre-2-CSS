@@ -1,0 +1,15 @@
+{
+  "name": "mercado-liebre-2-css",
+  "version": "1.0.0",
+  "description": "Mejorando Mercado Liebre 1 HTML con CSS",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lezcano Juliana",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "normalize.css": "^8.0.1"
+  }
+}
